@@ -51,18 +51,20 @@ Implementing various machine learning models to predict the optimum product weig
 - **XGBoost:** An efficient gradient boosting model for regression tasks.
 - **Neural Network:** A deep learning model for complex pattern recognition and prediction.
 
-#### Model Comparison:
-| Model              | MSE                 |
-| ------------------ | ------------------- |
-| Linear Regression  | 2.679269e-22        |
-| Decision Tree      | 1.994284e+00        |
-| Random Forest      | 2.151994e+00        |
-| SVR                | 1.285540e+08        |
-| XGBoost            | 2.931428e+04        |
-| Neural Network     | 4.194941e+02        |
+### Model Comparison:
 
-#### Best Model:
-Linear Regression has the lowest Mean Squared Error: 2.6792688615790993e-22
+| Model            | MSE               |
+|------------------|-------------------|
+| Linear Regression| 2.975111e+06      |
+| Decision Tree    | 1.728232e+06      |
+| Random Forest    | 9.014520e+05 🌟  |
+| SVR              | 1.301045e+08      |
+| XGBoost          | 9.043372e+05      |
+| Neural Network   | 1.585509e+06      |
+
+### Best Model:
+
+Random Forest has the lowest Mean Squared Error: 901452.0157324472 🏆
 
 ### 7. Next Steps 🚀
 Description: Continuous improvement and refinement of the model can be achieved through:
