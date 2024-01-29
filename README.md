@@ -51,6 +51,9 @@ Implementing various machine learning models to predict the optimum product weig
 - **XGBoost:** An efficient gradient boosting model for regression tasks.
 - **Neural Network:** A deep learning model for complex pattern recognition and prediction.
 
+![Screenshot 2024-01-29 232604](https://github.com/anurashikvk/FMCG-Supply-Chain-Optimization-Project/assets/134492695/4819daa6-61b7-4d46-997c-91818df14e38)
+
+
 ### Model Comparison:
 
 | Model            | MSE               |
