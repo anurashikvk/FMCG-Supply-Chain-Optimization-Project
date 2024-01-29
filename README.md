@@ -54,14 +54,14 @@ Implementing various machine learning models to predict the optimum product weig
 #### Model Comparison:
 | Model              | MSE                 |
 | ------------------ | ------------------- |
-| Linear Regression  | 2.679e-22           |
-| Decision Tree      | 1.994               |
-| Random Forest      | 2.152               |
-| SVR                | 1.286e+08           |
-| XGBoost            | 2.931e+04           |
-| Neural Network     | 419.494             |
+| Linear Regression  | 2.679269e-22        |
+| Decision Tree      | 1.994284e+00        |
+| Random Forest      | 2.151994e+00        |
+| SVR                | 1.285540e+08        |
+| XGBoost            | 2.931428e+04        |
+| Neural Network     | 4.194941e+02        |
 
 #### Best Model:
-Linear Regression has the lowest Mean Squared Error: 2.679e-22
+Linear Regression has the lowest Mean Squared Error: 2.6792688615790993e-22
 
 ---
