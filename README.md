@@ -54,20 +54,8 @@ Implementing various machine learning models to predict the optimum product weig
 ![Screenshot 2024-01-29 232604](https://github.com/anurashikvk/FMCG-Supply-Chain-Optimization-Project/assets/134492695/4819daa6-61b7-4d46-997c-91818df14e38)
 
 
-### Model Comparison:
+![Screenshot 2024-01-29 232638](https://github.com/anurashikvk/FMCG-Supply-Chain-Optimization-Project/assets/134492695/1e6092aa-b3e8-4e8c-bee4-713508da5b07)
 
-| Model                | MSE          |
-|......................|..............|
-|    Linear Regression | 2.975111e+06 |
-|        Decision Tree | 1.754786e+06 |
-|        Random Forest | 9.056520e+05 |
-|                  SVR | 1.301045e+08 |
-|              XGBoost | 9.043372e+05 |
-|       Neural Network | 1.570152e+06 |
-
-### Best Model:
-
-XGBoost has the lowest Mean Squared Error: 901452.0157324472 🏆
 
 ### 7. Next Steps 🚀
 Description: Continuous improvement and refinement of the model can be achieved through:
