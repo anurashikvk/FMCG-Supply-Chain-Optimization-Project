@@ -54,7 +54,7 @@ Implementing various machine learning models to predict the optimum product weig
 ![Screenshot 2024-01-29 232604](https://github.com/anurashikvk/FMCG-Supply-Chain-Optimization-Project/assets/134492695/4819daa6-61b7-4d46-997c-91818df14e38)
 
 
-![Screenshot 2024-01-29 232638](https://github.com/anurashikvk/FMCG-Supply-Chain-Optimization-Project/assets/134492695/1e6092aa-b3e8-4e8c-bee4-713508da5b07)
+
 
 
 ### 7. Next Steps 🚀
